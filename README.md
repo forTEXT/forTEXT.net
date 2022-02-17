@@ -1,2 +1,1 @@
-# forTEXT.net
-Beispieldaten und Jupyter Notebooks zu forTEXT.net-Artikeln
+In diesem Repository finden Sie Beispieldaten wie Einzeltexte und Korpora sowie Jupyter Notebooks zu einzelnen Methoden der Digital Humanities. Die Beispieldaten und Notebooks ergänzen die Lerneinheiten und Lehrmodule auf forTEXT.net.
